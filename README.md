@@ -52,7 +52,7 @@ If none match all 10 → no winner.
 
 4. How to Run 
 
-Step 1: Clone the Repository git clone https://github.com/your-username/number-match-game.git
+Step 1: Clone the Repository git clone https://github.com/Ruturaj2005-lang/python_code.git
 
 Step 2: Navigate to the Project Folder cd number-match-game
 
